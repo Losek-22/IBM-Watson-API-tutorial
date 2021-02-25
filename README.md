@@ -1,3 +1,3 @@
-# praca_przejsciowa_inzynierska-IBM-Watson-API
+# IBM-Watson-API-tutorial
 
 Tutorial on how to use IBM Watson API for Visual Recognition tasks.
